@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v18.12.1                    
 ******************************************************************************
->> Linked Sat Feb 23 20:33:24 2019
+>> Linked Sat Feb 23 20:43:47 2019
 
 OUTPUT FILE NAME:   <SPI_basic.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs"  address: 00000709

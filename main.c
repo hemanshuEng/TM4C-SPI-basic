@@ -1,5 +1,7 @@
 /**
  * main.c
+ *
+ * Basic Spi with MAx7219 IC Working Progress
  */
 
 
